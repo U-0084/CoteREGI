@@ -1,0 +1,3 @@
+rootProject.name = 'cote_regi'
+
+include ':app'
