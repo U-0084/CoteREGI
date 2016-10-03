@@ -27,8 +27,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   description: {
-    fontSize: 15,
-    backgroundColor: '#FFFFFF'
+    fontSize: 20,
+    backgroundColor: '#07d39d'
   }
 });
 
